@@ -161,24 +161,6 @@ through real projects, experimentation and hands-on development.
 
 ---
 
-### 🎯 Current Focus
-
-<div align="center">
-
-```text
-╭────────────────────────────────────────────────────────╮
-│                                                        │
-│  🧱 Building better software                           │
-│  ⚙️  Improving backend & API development               │
-│  🏗️  Learning system architecture                     │
-│  🔄 Exploring CI/CD & GitHub Actions                   │
-│  🐳 Practicing Docker & development workflows          │
-│                                                        │
-╰────────────────────────────────────────────────────────╯
-```
-
-</div>
-
 ---
 
 ### 📫 Let's Connect
