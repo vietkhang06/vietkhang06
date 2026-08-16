@@ -22,14 +22,14 @@
 
   <a href="https://github.com/vietkhang06">
     <img
-      src="https://github-readme-stats.vercel.app/api?username=vietkhang06&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"
+      src="https://github-readme-stats.vercel.app/api?username=vietkhang06&show_icons=true&theme=default&hide_border=true&bg_color=FFFFFF&title_color=0969DA&icon_color=0969DA&text_color=24292F"
       alt="vietkhang06's GitHub stats"
     />
   </a>
 
   <a href="https://github.com/vietkhang06">
     <img
-      src="https://github-readme-streak-stats.herokuapp.com/?user=vietkhang06&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E"
+      src="https://github-readme-streak-stats.herokuapp.com/?user=vietkhang06&theme=default&hide_border=true&background=FFFFFF&ring=0969DA&fire=0969DA&currStreakLabel=0969DA&sideLabels=24292F&dates=57606A"
       alt="vietkhang06's GitHub streak"
     />
   </a>
@@ -81,25 +81,37 @@ through real projects, experimentation and hands-on development.
 #### 💻 Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,cs,ts,python,js" alt="Programming Languages" />
+  <img
+    src="https://skillicons.dev/icons?i=java,cs,ts,python,js"
+    alt="Programming Languages"
+  />
 </p>
 
 #### ⚙️ Frameworks & Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=spring,dotnet,flutter,android,nodejs" alt="Frameworks and Development" />
+  <img
+    src="https://skillicons.dev/icons?i=spring,dotnet,flutter,android,nodejs"
+    alt="Frameworks and Development"
+  />
 </p>
 
 #### 🗄️ Database & Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,firebase" alt="Database and Backend Technologies" />
+  <img
+    src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,firebase"
+    alt="Database and Backend Technologies"
+  />
 </p>
 
 #### 🚀 Tools & DevOps
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,idea,postman" alt="Tools and DevOps" />
+  <img
+    src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,idea,postman"
+    alt="Tools and DevOps"
+  />
 </p>
 
 </div>
@@ -110,12 +122,12 @@ through real projects, experimentation and hands-on development.
 
 <div align="center">
 
-<a href="https://github.com/vietkhang06">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=vietkhang06&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=FFFFFF&area=true&hide_border=true"
-    alt="vietkhang06's GitHub activity graph"
-  />
-</a>
+  <a href="https://github.com/vietkhang06">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=vietkhang06&bg_color=FFFFFF&color=24292F&line=0969DA&point=0969DA&area=true&hide_border=true"
+      alt="vietkhang06's GitHub activity graph"
+    />
+  </a>
 
 </div>
 
@@ -125,12 +137,12 @@ through real projects, experimentation and hands-on development.
 
 <div align="center">
 
-<a href="https://github.com/vietkhang06?tab=repositories">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=vietkhang06&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6"
-    alt="vietkhang06's GitHub trophies"
-  />
-</a>
+  <a href="https://github.com/vietkhang06?tab=repositories">
+    <img
+      src="https://github-profile-trophy.vercel.app/?username=vietkhang06&theme=flat&no-frame=true&no-bg=true&margin-w=8&column=6"
+      alt="vietkhang06's GitHub trophies"
+    />
+  </a>
 
 </div>
 
@@ -140,24 +152,30 @@ through real projects, experimentation and hands-on development.
 
 <div align="center">
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/vietkhang06/vietkhang06/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/vietkhang06/vietkhang06/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    src="https://raw.githubusercontent.com/vietkhang06/vietkhang06/output/github-contribution-grid-snake.svg"
-    alt="GitHub Contribution Snake"
-  />
-</picture>
+<img
+ src="https://raw.githubusercontent.com/vietkhang06/vietkhang06/output/github-contribution-grid-snake.svg"
+ alt="GitHub Contribution Snake"
+/>
 
 </div>
 
 ---
+
+### 🎯 Current Focus
+
+<div align="center">
+
+```text
+╭────────────────────────────────────────────────────────╮
+│                                                        │
+│  🧱 Building better software                           │
+│  ⚙️  Improving backend & API development               │
+│  🏗️  Learning system architecture                     │
+│  🔄 Exploring CI/CD & GitHub Actions                   │
+│  🐳 Practicing Docker & development workflows          │
+│                                                        │
+╰────────────────────────────────────────────────────────╯
+```
 
 </div>
 
@@ -167,21 +185,32 @@ through real projects, experimentation and hands-on development.
 
 <div align="center">
 
-<a href="https://github.com/vietkhang06">
-  <img
-    src="https://img.shields.io/badge/GitHub-vietkhang06-181717?style=for-the-badge&logo=github&logoColor=white"
-    alt="GitHub"
-  />
-</a>
+  <a href="https://github.com/vietkhang06">
+    <img
+      src="https://img.shields.io/badge/GitHub-vietkhang06-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+    />
+  </a>
 
- 
+  <a href="https://www.facebook.com/oanvietkhang.2025">
+    <img
+      src="https://img.shields.io/badge/Facebook-oanvietkhang.2025-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
+      alt="Facebook"
+    />
+  </a>
 
-<img
-src="https://img.shields.io/badge/Software%20Engineering-Builder-3399FF?style=for-the-badge&logo=codeforces&logoColor=white"
-alt="Software Engineering"
-/>
+  <a href="https://www.linkedin.com/in/%C4%91o%C3%A0n-vi%E1%BB%87t-khang">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-%C4%90o%C3%A0n%20Vi%E1%BB%87t%20Khang-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
+  </a>
 
-<br /><br />
+</div>
+
+<br />
+
+<div align="center">
 
 <b>Open to:</b> Software Engineering Projects • Collaboration • Learning Opportunities
 
@@ -192,15 +221,15 @@ alt="Software Engineering"
 <br /><br />
 
 <img
-src="https://komarev.com/ghpvc/?username=vietkhang06&color=3399FF&style=flat-square&label=PROFILE+VIEWS"
-alt="Profile Views"
+ src="https://komarev.com/ghpvc/?username=vietkhang06&color=3399FF&style=flat-square&label=PROFILE+VIEWS"
+ alt="Profile Views"
 />
 
  
 
 <img
-src="https://img.shields.io/github/followers/vietkhang06?label=Followers&style=flat-square&color=3399FF&logo=github"
-alt="GitHub Followers"
+ src="https://img.shields.io/github/followers/vietkhang06?label=Followers&style=flat-square&color=3399FF&logo=github"
+ alt="GitHub Followers"
 />
 
 </div>
