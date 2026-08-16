@@ -45,7 +45,7 @@
 |                     |                                                   |
 | ------------------- | ------------------------------------------------- |
 | 🎓 **Education**    | Software Engineering @ UIT (VNU-HCM)              |
-| 💻 **Focus**        | Software Development, Backend & Full-Stack        |
+| 💻 **Focus**        | Software Development, Full-Stack                  |
 | 🧩 **Interests**    | System Design, APIs, Automation & Developer Tools |
 | 🚀 **Current Goal** | Building practical and maintainable software      |
 | ⚡ **Mindset**       | Learn → Build → Improve                           |
